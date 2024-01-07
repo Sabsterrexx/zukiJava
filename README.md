@@ -1,3 +1,5 @@
+# zukiJava
+
 Java Wrapper for the zukijourney API.
 
 This repository aims to be a useful collection of Java modules that make using the zukijourney API easier.
