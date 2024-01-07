@@ -1,0 +1,12 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ŠÆĞùÿÿÿÿ8‰í™‘Î1
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "data".(…¡¤şÿÿÿÿ8Ší™‘Î1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄùŒá8‹í™‘Î1
+n	java:S116"RRename this field "API_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕØ×’8¦í™‘Î1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¾øÿÿÿÿ8©í™‘Î1
+o	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§€Ê ûÿÿÿÿ8ªí™‘Î1
+[
+java:S47194"9Replace charset name argument with StandardCharsets.UTF_8(»˜œøÿÿÿÿ8±í™‘Î1
+G	java:S106K"+Replace this use of System.out by a logger.(ö‘Š–8ºí™‘Î1
+G	java:S106O"+Replace this use of System.err by a logger.(˜ŸÚá8ºí™‘Î1
