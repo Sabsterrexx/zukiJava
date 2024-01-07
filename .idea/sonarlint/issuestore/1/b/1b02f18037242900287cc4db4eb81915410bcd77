@@ -1,12 +1,0 @@
-
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Õ¶ª
-i
-java:S1104"SMake API_KEY a static final constant or non-public and provide accessors if needed.(¯ÈÙ‘
-k
-java:S1104"UMake chatModel a static final constant or non-public and provide accessors if needed.(˜ÂªÚ
-i
-java:S1104	"TMake zukiChat a static final constant or non-public and provide accessors if needed.(”¿÷G
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›‡Ù³
-2
-java:S1116"Remove this empty statement.(’¦ô¢
-g	java:S116"RRename this field "API_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÈÙ‘

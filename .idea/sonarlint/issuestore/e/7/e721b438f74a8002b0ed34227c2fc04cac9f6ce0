@@ -1,8 +1,0 @@
-
-e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÀ”(
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÂîx
-g	java:S116"RRename this field "API_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕØ×’
-l	java:S116"WRename this field "API_ENDPOINT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßôû
-|	java:S116"bRename this field "API_ENDPOINT_UNFILTERED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñªó¬úÿÿÿÿ
-x	java:S116	"^Rename this field "API_ENDPOINT_BACKUP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûï‚ˆùÿÿÿÿ
-j	java:S116"URename this field "API_CALLER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…çÔÈ
