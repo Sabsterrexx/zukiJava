@@ -10,4 +10,4 @@ The file Main.java has some example code on how to use the wrapper. The .gitigno
 
 Currently, this repository is only meant to be used for chat completions, namely the OpenAI models.
 
-While the concept of a zukijourney API might be no different than an OpenAI Java wrapper, there are specific quirks of the zukijourney API that this repository handles which make it more accessible.
+While the concept of a zukijourney API wrapper might be no different than an OpenAI Java wrapper, there are specific quirks of the zukijourney API that this repository handles which make it more accessible.
