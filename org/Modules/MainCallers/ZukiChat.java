@@ -5,7 +5,7 @@ public class ZukiChat {
 
     private String API_KEY;
     private String API_BACKUP_KEY;
-    private String API_ENDPOINT;
+    public String API_ENDPOINT;
     private String API_ENDPOINT_UNFILTERED;
     private String API_ENDPOINT_BACKUP;
     private String systemPrompt;
