@@ -4,7 +4,7 @@ import org.Modules.ZukiCall;
 class Main{
     public static void main(String[] args){
 
-        String API_KEY = "zu-ab6395a778f2341bac302c3efabe40e0"; // Set this value to your API key.
+        String API_KEY = ""; // Set this value to your API key.
         String API_BACKUP_KEY = ""; // Set this value to your backup API key, if you have one (optional).
 
         // The ZukiCall class handles sending and receiving messages to our LLM with the API.
