@@ -22,7 +22,7 @@ public class ZukiChat {
         this.API_ENDPOINT_BACKUP = "https://thirdparty.webraft.in/v1/chat/completions";
 
         this.systemPrompt = systemPrompt;
-        
+
 
         if (0 <= temperature && temperature <= 1)
             this.temperature = temperature;
