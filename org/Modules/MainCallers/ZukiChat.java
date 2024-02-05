@@ -22,13 +22,7 @@ public class ZukiChat {
         this.API_ENDPOINT_BACKUP = "https://thirdparty.webraft.in/v1/chat/completions";
 
         this.systemPrompt = systemPrompt;
-
-        String[] modelsList = {"gpt-3.5", "gpt-3.5-turbo", "gpt-3.5-4k", "gpt-3.5-16k", "gpt-4", "gpt-4-4k", "gpt-4-16k", "claude-2"};
-
-        if (arrayContains(modelsList, model))
-            this.model = model;
-        else
-            throw new IllegalArgumentException(model + " is not a valid text model!");
+        
 
         if (0 <= temperature && temperature <= 1)
             this.temperature = temperature;
