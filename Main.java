@@ -26,5 +26,16 @@ class Main{
         // The value by default is 0.7.
         zukiAI.zukiChat.setTemp(0.5); // Example: set temperature to 0.5
 
+
+        String prompt = "A frustrated Java developer.";
+        int generations = 1;
+        String size = "1024x1024";
+        String model = "sdxl-turbo";
+
+        //You can generate images using the .generateImage() method of zukiImage:
+        String generatedImage = zukiAI.zukiImage.generateImage(API_KEY, prompt, generations, size, model);
+
+        System.out.println(generatedImage);
+
     }
 }
