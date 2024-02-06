@@ -20,7 +20,7 @@ public class ZukiChat {
         this.API_ENDPOINT = "https://zukijourney.xyzbot.net/v1/chat/completions";
         this.API_ENDPOINT_UNFILTERED = "https://zukijourney.xyzbot.net/unf/chat/completions";
         this.API_ENDPOINT_BACKUP = "https://thirdparty.webraft.in/v1/chat/completions";
-
+        this.model = model;
         this.systemPrompt = systemPrompt;
 
 
