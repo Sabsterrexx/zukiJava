@@ -3,7 +3,7 @@ import org.Modules.SubCallers.ZukiImageCall;
 public class ZukiImage {
     private String API_KEY;
     private ZukiImageCall API_CALLER;
-    public String API_ENDPOINT = "https://zukijourney.xyzbot.net/v1/images/generations";
+    public String API_ENDPOINT = "https://api.zukijourney.com/v1/images/generations";
 
     public ZukiImage(String API_KEY){
 
