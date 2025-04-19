@@ -17,8 +17,8 @@ public class ZukiChat {
     public ZukiChat(String API_KEY, String API_BACKUP_KEY, String model, String systemPrompt, double temperature) {
         this.API_KEY = API_KEY;
         this.API_BACKUP_KEY = API_BACKUP_KEY;
-        this.API_ENDPOINT = "https://zukijourney.xyzbot.net/v1/chat/completions";
-        this.API_ENDPOINT_UNFILTERED = "https://zukijourney.xyzbot.net/unf/chat/completions";
+        this.API_ENDPOINT = "https://api.zukijourney.com/v1/chat/completions";
+        this.API_ENDPOINT_UNFILTERED = "https://api.zukijourney.com/unf/chat/completions";
         this.API_ENDPOINT_BACKUP = "https://thirdparty.webraft.in/v1/chat/completions";
         this.model = model;
         this.systemPrompt = systemPrompt;
